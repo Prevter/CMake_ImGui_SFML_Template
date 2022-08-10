@@ -1,0 +1,6 @@
+[submodule "dependencies/sfml"]
+	path = dependencies/sfml
+	url = https://github.com/SFML/SFML
+[submodule "dependencies/imgui-sfml"]
+	path = dependencies/imgui-sfml
+	url = https://github.com/eliasdaler/imgui-sfml
